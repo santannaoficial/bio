@@ -9,21 +9,21 @@ Estou atualmente cursando o 3º ano do ensino médio na instituição SESI SENAI
 ### Técnologias:
 #### Programação:
 <la>
-  <li>Java;</li>
-  <li>Java Script;</li>
-  <li>JQuery;</li>
-  <li>Python;</li>
-  <li>HTML;</li>
-  <li>CSS;</li>
-  <li>PHP;</li>
-  <li>SQL;</li>
+  <li>Java</li>
+  <li>Java Script</li>
+  <li>JQuery</li>
+  <li>Python</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>PHP</li>
+  <li>SQL</li>
 </la>
 
 #### Design:
 <la>
-  <li>Adobe Photoshop | Lightroom;</li>
-  <li>Adobe Illustrator;</li>
-  <li>CorelDRAW;</li>
-  <li>Figma;</li>
-  <li>Blender Cycles;</li>
+  <li>Adobe Photoshop | Lightroom</li>
+  <li>Adobe Illustrator</li>
+  <li>CorelDRAW</li>
+  <li>Figma</li>
+  <li>Blender Cycles</li>
 </la>
