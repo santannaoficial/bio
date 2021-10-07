@@ -3,16 +3,27 @@
 ### Sobre mim:
 Estou atualmente cursando o 3º ano do ensino médio na instituição SESI SENAI Norte Joinville, onde recentemente me formei como Técnico em Desenvolvimento de Sistemas e aprendi boa parte do que sei sobre programação.
 
-
-### Linguagens que eu domino:
+- Sou motivado, criativo e fortemente apaixonado por design e programação. Cursei entre 2016 e 2017 design gráfico e ao longo dos anos venho aprimorando meus conhecimentos 	nesse setor.
+- Estou iniciando minha trajetória profissional e tenho interesse nas areas de desenvolvimento Front-end UX/UI design.
+##
+### Técnologias que domino:
+#### Programação:
 <la>
-  <li>Java  (Básico);</li>
-  <li>Java Script (Básico a avançado);</li>
-  <li>JQuery (Básico);</li>
-  <li>Python (Básico);</li>
-  <li>HTML (Básico a avançado);</li>
-  <li>MD (Básico a avançado);</li>
-  <li>CSS (Básico a avançado);</li>
-  <li>PHP (Básico);</li>
-  <li>SQL (Básico a avançado);</li>
+  <li>Java;</li>
+  <li>Java Script;</li>
+  <li>JQuery;</li>
+  <li>Python;</li>
+  <li>HTML;</li>
+  <li>CSS;</li>
+  <li>PHP;</li>
+  <li>SQL;</li>
+</la>
+
+#### Design:
+<la>
+  <li>Adobe Photoshop | Lightroom;</li>
+  <li>Adobe Illustrator;</li>
+  <li>CorelDRAW;</li>
+  <li>Figma;</li>
+  <li>Blender Cycles;</li>
 </la>
