@@ -6,7 +6,7 @@ Estou atualmente cursando o 3º ano do ensino médio na instituição SESI SENAI
 - Sou motivado, criativo e fortemente apaixonado por design e programação. Cursei entre 2016 e 2017 design gráfico e ao longo dos anos venho aprimorando meus conhecimentos 	nesse setor.
 - Estou iniciando minha trajetória profissional e tenho interesse nas areas de desenvolvimento Front-end UX/UI design.
 ##
-### Técnologias que domino:
+### Técnologias:
 #### Programação:
 <la>
   <li>Java;</li>
