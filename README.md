@@ -1,5 +1,5 @@
 # Olá!
-### Sobre mim ✧. * ⌑ . ° .
+### Sobre mim
 Estou atualmente cursando o 3º ano do ensino médio na instituição SESI SENAI Norte Joinville, onde recentemente me formei como Técnico em Desenvolvimento de Sistemas e aprendi boa parte do que sei sobre programação.
 
 - Sou motivado, criativo e fortemente apaixonado por design e programação. Cursei entre 2016 e 2017 design gráfico e ao longo dos anos venho aprimorando meus conhecimentos 	nesse setor.
