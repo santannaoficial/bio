@@ -11,7 +11,7 @@ Estou atualmente cursando o 3º ano do ensino médio na instituição SESI SENAI
   <li>Java</li>
   <li>Java Script</li>
   <li>JQuery</li>
-  <li>Python</li>
+  <li>Python (Iniciante)</li>
   <li>HTML</li>
   <li>CSS</li>
   <li>PHP</li>
