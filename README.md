@@ -5,12 +5,12 @@
 <div align="center">
   <h3>Tecnologies</h3>
 <!--   <div>
-    <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=32&duration=1&pause=1&color=000000&center=true&vCenter=true&repeat=false&width=460&lines=Tecnologies">
+    <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=32&duration=1&pause=1&color=000000&center=true&vCenter=true&repeat=false&width=460&lines=Technologies">
   </div> -->
 <!--   <div>
-    <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=18&duration=1&pause=1&color=000000&center=true&vCenter=true&repeat=false&width=460&lines=Main frontend, backend and server side tecnologies">
+    <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=18&duration=1&pause=1&color=000000&center=true&vCenter=true&repeat=false&width=460&lines=Main frontend, backend and server side technologies">
   </div> -->
-  <p>Main frontend, backend and server <br> side tecnologies</p>
+  <p>Main frontend, backend and server <br> side technologies</p>
   
   <!-- frontend -->
   <div>
