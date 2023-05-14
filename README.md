@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>Tecnologies</h3>
+  <h3>Technologies</h3>
 <!--   <div>
     <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=32&duration=1&pause=1&color=000000&center=true&vCenter=true&repeat=false&width=460&lines=Technologies">
   </div> -->
