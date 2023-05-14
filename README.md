@@ -1,7 +1,40 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stnaoficial&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+```bash
+> $ # Hi I'm Pedro Santana!
+```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stnaoficial&hide_progress=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <br>
+  <div>
+    <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=32&duration=1&pause=1&color=000000&center=true&vCenter=true&repeat=false&width=460&lines=Tecnologies">
+  </div>
+  <div>
+    <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=18&duration=1&pause=1&color=000000&center=true&vCenter=true&repeat=false&width=460&lines=Main frontend, backend and server side tecnologies">
+  </div>
   
+  <!-- frontend -->
+  <div>
+    <img src="https://skillicons.dev/icons?i=html,css,react,vue,vite,webpack" />
+  </div><br>
+  
+  <!-- backend -->
+  <div>
+    <img src="https://skillicons.dev/icons?i=java,typescript,php,laravel,c,bash,powershell,docker,kubernetes" />
+  </div><br>
+  
+  <!-- server side -->
+  <div>
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postman,nginx" />
+  </div>
+  
+  <!-- others -->
+  <div>
+    <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=18&duration=1&pause=1&color=000000&center=true&vCenter=true&repeat=false&width=460&lines=Others">
+  </div>
+  <div>
+    <img src="https://skillicons.dev/icons?i=photoshop,blender,unreal,linux" />
+  </div>
+</div><br>
+
 ### About me
 I am currently attending a higher education degree at the State University of Santa Catarina UDESC for Technologist in Systems Analysis and Development, where I intend to improve my knowledge as an entrepreneur, with ability to work in teams, endowed with initiative in the proposal and implementation of the solution of problems and a spirit of cooperation and articulation.
 
