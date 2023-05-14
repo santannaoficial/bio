@@ -1,4 +1,3 @@
-# Hi!
 ### About me
 I am currently attending a higher education degree at the State University of Santa Catarina UDESC for Technologist in Systems Analysis and Development, where I intend to improve my knowledge as an entrepreneur, with ability to work in teams, endowed with initiative in the proposal and implementation of the solution of problems and a spirit of cooperation and articulation.
 
