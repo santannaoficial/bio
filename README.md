@@ -3,13 +3,14 @@
 ```
 
 <div align="center">
-  <br>
-  <div>
+  <h3>Tecnologies</h3>
+<!--   <div>
     <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=32&duration=1&pause=1&color=000000&center=true&vCenter=true&repeat=false&width=460&lines=Tecnologies">
-  </div>
-  <div>
+  </div> -->
+<!--   <div>
     <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=18&duration=1&pause=1&color=000000&center=true&vCenter=true&repeat=false&width=460&lines=Main frontend, backend and server side tecnologies">
-  </div>
+  </div> -->
+  <p>Main frontend, backend and server <br> side tecnologies</p>
   
   <!-- frontend -->
   <div>
@@ -27,9 +28,12 @@
   </div>
   
   <!-- others -->
-  <div>
+<!--   <div>
     <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=18&duration=1&pause=1&color=000000&center=true&vCenter=true&repeat=false&width=460&lines=Others">
-  </div>
+  </div> -->
+  <br>
+  <p>Others</p>
+  
   <div>
     <img src="https://skillicons.dev/icons?i=photoshop,blender,unreal,linux" />
   </div>
